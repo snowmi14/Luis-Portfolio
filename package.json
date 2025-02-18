@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://snowmi14.github.io/Luis-Portfolio/",
+  "homepage": "https://ericsorum.com/",
   "private": true,
   "dependencies": {
     "@tailwindcss/vite": "^4.0.6",

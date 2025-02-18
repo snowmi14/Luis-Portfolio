@@ -35,21 +35,6 @@ function Projects() {
             </div>
           </div>
         </div>
-        <div className="flip-container">
-          <div className="flip-box">
-            <div className="flip-box-front">
-              <h3>Forum-app</h3>
-                <p>In this project we develop a forum in React. Where users were able to interact in real time
-                  with the creation of threads and a smooth interaction between users
-                </p>
-            </div>
-            <div className="flip-box-back">
-              <a href="https://example.com" target="_blank" rel="noopener noreferrer">
-                Visit Here
-              </a>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   );
