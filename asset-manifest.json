@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.70ddb383.css",
-    "main.js": "/static/js/main.2d4c65bc.js",
+    "main.css": "/static/css/main.4200b4c3.css",
+    "main.js": "/static/js/main.019fccae.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
-    "static/media/LuisQuinones_2-15-2025.pdf": "/static/media/LuisQuinones_2-15-2025.a6265d948a59d1aada28.pdf",
+    "static/media/Project_Presentation_LuisQuiñones.pdf": "/static/media/Project_Presentation_LuisQuiñones.88fec0fa0e11c3156abb.pdf",
+    "static/media/Disguising_Attacks_with_Explanation_Aware_Backdoors.pdf": "/static/media/Disguising_Attacks_with_Explanation_Aware_Backdoors.42dcb616fcb59e5668ce.pdf",
+    "static/media/LuisQuinones_Resume.pdf": "/static/media/LuisQuinones_Resume.3be370d915aadd4ffca0.pdf",
     "static/media/html.png": "/static/media/html.c732f69a7f2d48a207f7.png",
     "static/media/java.png": "/static/media/java.6fc7f7b5f8f0d086e278.png",
     "static/media/javascript.png": "/static/media/javascript.fe530b166ed8a3594739.png",
@@ -14,12 +16,12 @@
     "static/media/git.png": "/static/media/git.2dbdc191964b22200c18.png",
     "static/media/figma.png": "/static/media/figma.1475cc523b5f4c537bd9.png",
     "index.html": "/index.html",
-    "main.70ddb383.css.map": "/static/css/main.70ddb383.css.map",
-    "main.2d4c65bc.js.map": "/static/js/main.2d4c65bc.js.map",
+    "main.4200b4c3.css.map": "/static/css/main.4200b4c3.css.map",
+    "main.019fccae.js.map": "/static/js/main.019fccae.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70ddb383.css",
-    "static/js/main.2d4c65bc.js"
+    "static/css/main.4200b4c3.css",
+    "static/js/main.019fccae.js"
   ]
 }
